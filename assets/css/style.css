@@ -1,0 +1,11 @@
+.head {
+    background-color: aqua;
+    overflow: hidden;
+    position: absolute;
+    margin-top: 0px;
+}
+
+.navbar {
+    background-color: darkgreen;
+    display: inline;
+}
